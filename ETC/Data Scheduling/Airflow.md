@@ -10,8 +10,8 @@ Airflow는 python 코드로 워크플로우를 작성하고, 스케쥴링, 모�
 
 Airflow는 Python DAG를 읽고, 거기에 맞춰 Scheduler가 Task를 스케줄링하면, Worker가 Task를 가져가 실행합니다. Task의 실행상태는 Database에 저장되고, 사용자는 UI를 통해서 각 Task의 실행 상태, 성공 여부 등을 확인할 수 있습니다.
 
-<img width="862" alt="airflow_workflow이미지" src="https://user-images.githubusercontent.com/99888382/156910578-61f8ebe2-7222-400c-ad5a-5578637b9db8.png">
-<img width="904" alt="airflow_element설명이미지" src="https://user-images.githubusercontent.com/99888382/156910579-d044a30b-94e9-4715-b912-8a81b9c0e53f.png">
+<img width="662" alt="airflow_workflow이미지" src="https://user-images.githubusercontent.com/99888382/156910578-61f8ebe2-7222-400c-ad5a-5578637b9db8.png">
+<img width="704" alt="airflow_element설명이미지" src="https://user-images.githubusercontent.com/99888382/156910579-d044a30b-94e9-4715-b912-8a81b9c0e53f.png">
 
 #### 3. 기본 컨셉 및 핵심 용어
 
